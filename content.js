@@ -1,10 +1,10 @@
 function removeBlur() {
   document
     .querySelectorAll(
-      "span.blur-sm, div.blur-sm, img.blur-\\[6px\\], div.blur-\\[6px\\]"
+      "span.blur-sm, div.blur-sm, img.blur-\\[6px\\], img.blur-\\[4px\\], div.blur-\\[6px\\]"
     )
     .forEach((el) => {
-      el.classList.remove("blur-sm", "blur-[6px]");
+      el.classList.remove("blur-sm", "blur-[6px]", "blur-[4px]");
     });
 }
 
