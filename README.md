@@ -26,13 +26,16 @@ install it manually:
     git clone https://github.com/DynamicsNinja/meetup-blur-remover.git
     ```
 
-2.  Open Chrome and go to: chrome://extensions/
+2.  Open Chrome and go to:
+    ```
+    chrome://extensions/
+    ```
 
-3.  Enable **Developer mode** (top right)
+4.  Enable **Developer mode** (top right)
 
-4.  Click **Load unpacked**
+5.  Click **Load unpacked**
 
-5.  Select the project folder
+6.  Select the project folder
 
 Done! The extension will now run automatically on:
 https://www.meetup.com/\*
