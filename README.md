@@ -26,7 +26,7 @@ install it manually:
     git clone https://github.com/DynamicsNinja/meetup-blur-remover.git
     ```
 
-2.  Open Chrome and go to: chrome://extensions/
+2.  Open Chrome and go to: ```chrome://extensions/```
 
 3.  Enable **Developer mode** (top right)
 
